@@ -1,0 +1,59 @@
+# Build results
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.log
+*.user
+*.vspscc
+
+# Visual Studio folders
+.vs/
+*.suo
+*.userosscache
+*.userprefs
+
+# IDE artifacts
+*.ide/
+*.idea/
+*.vscode/
+*.launch.json
+*.tasks.json
+
+# Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Publish output
+publish/
+wwwroot/dist/
+node_modules/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Entity Framework migrations cache
+Migrations/obj/
+*.dbmdl
+
+# Local settings and environment secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.Development.json
+secrets.json
+
+# OS junk
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+
+# Docker / environment
+.env

@@ -40,6 +40,11 @@ TestResults/
 Migrations/obj/
 *.dbmdl
 
+ Ignore launch profiles
+**/Properties/launchSettings.json
+*.http
+
+
 # Local settings and environment secrets
 appsettings.Development.json
 appsettings.Local.json

@@ -13,6 +13,8 @@ A lightweight demo Web API built with **ASP.NET Core (.NET 8)** showcasing clean
 
 # Clone the repo
 git clone https://github.com/Rati5832/MovieDemo.git
+
+
 cd MovieDemo
 
 # Restore dependencies
